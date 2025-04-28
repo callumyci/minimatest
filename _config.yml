@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "twitter_username:"
 header_pages:
   - list_of_documents.markdown
   - about.markdown
-  collections:
-   output_documents:
+collections:
+  output_documents:
     output: true
 # social links
 # twitter_username: jekyllrb
